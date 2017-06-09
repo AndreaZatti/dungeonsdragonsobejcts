@@ -11,6 +11,9 @@ public class Shop {
 
     private List<Item> items;
 
+    public void buyItem(Item.ITEM_TYPE helmet) {
+    }
+
     /*
     public Item buyItem(Item.ITEM_TYPE itemType) {
         if (itemType == Item.ITEM_TYPE.HELMET) {
