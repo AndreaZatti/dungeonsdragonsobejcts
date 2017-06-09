@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/model/JustToTry.java" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d32b4a-4d24-434e-a7a3-2c17f4bc29b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/JustToTry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a1d32b4a-4d24-434e-a7a3-2c17f4bc29b3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
